@@ -1,0 +1,15 @@
+E:\LeVanHung2019600006\LeVanHung2019600006\bin\Debug\LeVanHung2019600006.exe.config
+E:\LeVanHung2019600006\LeVanHung2019600006\bin\Debug\LeVanHung2019600006.exe
+E:\LeVanHung2019600006\LeVanHung2019600006\bin\Debug\LeVanHung2019600006.pdb
+E:\LeVanHung2019600006\LeVanHung2019600006\bin\Debug\BUS_QLKS.dll
+E:\LeVanHung2019600006\LeVanHung2019600006\bin\Debug\BUS_QLKS.pdb
+E:\LeVanHung2019600006\LeVanHung2019600006\obj\Debug\GUI_QLKS.csproj.AssemblyReference.cache
+E:\LeVanHung2019600006\LeVanHung2019600006\obj\Debug\LeVanHung2019600006.Properties.Resources.resources
+E:\LeVanHung2019600006\LeVanHung2019600006\obj\Debug\GUI_QLKS.csproj.GenerateResource.cache
+E:\LeVanHung2019600006\LeVanHung2019600006\obj\Debug\GUI_QLKS.csproj.CoreCompileInputs.cache
+E:\LeVanHung2019600006\LeVanHung2019600006\obj\Debug\GUI_QLKS.csproj.CopyComplete
+E:\LeVanHung2019600006\LeVanHung2019600006\obj\Debug\LeVanHung2019600006.exe
+E:\LeVanHung2019600006\LeVanHung2019600006\obj\Debug\LeVanHung2019600006.pdb
+E:\LeVanHung2019600006\LeVanHung2019600006\bin\Debug\DAL_QLKS.dll
+E:\LeVanHung2019600006\LeVanHung2019600006\bin\Debug\DAL_QLKS.pdb
+E:\LeVanHung2019600006\LeVanHung2019600006\obj\Debug\LeVanHung2019600006.frm_KS.resources

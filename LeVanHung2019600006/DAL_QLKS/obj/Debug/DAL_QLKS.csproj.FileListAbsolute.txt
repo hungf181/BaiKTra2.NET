@@ -1,0 +1,6 @@
+E:\LeVanHung2019600006\DAL_QLKS\bin\Debug\DAL_QLKS.dll
+E:\LeVanHung2019600006\DAL_QLKS\bin\Debug\DAL_QLKS.pdb
+E:\LeVanHung2019600006\DAL_QLKS\obj\Debug\DAL_QLKS.csproj.AssemblyReference.cache
+E:\LeVanHung2019600006\DAL_QLKS\obj\Debug\DAL_QLKS.csproj.CoreCompileInputs.cache
+E:\LeVanHung2019600006\DAL_QLKS\obj\Debug\DAL_QLKS.dll
+E:\LeVanHung2019600006\DAL_QLKS\obj\Debug\DAL_QLKS.pdb
