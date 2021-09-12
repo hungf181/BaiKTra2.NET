@@ -35,6 +35,7 @@ namespace LeVanHung2019600006
             else
                 return "Nam";
         }
+        //Click vào thì thêm sản phẩm mới
         private void btnThem_Click(object sender, EventArgs e)
         {
             if (txtMaKH.Text == ""||txtSoP.Text==""||txtCMT.Text==""||txtTen.Text=="")
@@ -66,7 +67,7 @@ namespace LeVanHung2019600006
                 }
             }
         }
-
+        //Click vào thì sửa thông tin
         private void btnSua_Click(object sender, EventArgs e)
         {
             if (txtMaKH.Text == "" || txtSoP.Text == "" || txtCMT.Text == "" || txtTen.Text == "")
